@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # README
 
 This project combines milvus and bert to implement an item-based text recommendation system.
